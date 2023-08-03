@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestest": "im am prestest",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy-test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Thendo Makherana",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
